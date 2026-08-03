@@ -1,4 +1,5 @@
 "Hello" 
 "Hello." 
 "My name is Riley" 
-"Multi line commit" 
+hey, i'm Adam
+
